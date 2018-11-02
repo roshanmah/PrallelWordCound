@@ -1,0 +1,7 @@
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\bin\Debug\WordCountShahab.exe.config
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\bin\Debug\WordCountShahab.exe
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\bin\Debug\WordCountShahab.pdb
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\obj\Debug\WordCountShahab.csprojAssemblyReference.cache
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\obj\Debug\WordCountShahab.csproj.CoreCompileInputs.cache
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\obj\Debug\WordCountShahab.exe
+C:\ShahabWorkingSpace\Prjs\WordCountShahab\WordCountShahab\obj\Debug\WordCountShahab.pdb
